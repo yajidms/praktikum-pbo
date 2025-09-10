@@ -15,6 +15,6 @@ Aplikasi ini adalah program command-line sederhana berbasis Java untuk melihat d
 
 Aplikasi ini dibangun menggunakan prinsip-prinsip dasar Pemrograman Berorientasi Objek (OOP) dengan memisahkan data dan logika ke dalam beberapa kelas:
 * Main: Titik masuk dan alur utama aplikasi.
-* JadwalKuliah: Mengelola daftar mata kuliah dan logika pencarian.
+* furina.model.JadwalKuliah: Mengelola daftar mata kuliah dan logika pencarian.
 * MataKuliah: Merepresentasikan satu entitas mata kuliah.
-* DataJadwal: Menyediakan data hardcode untuk jadwal kuliah.
+* furina.model.DataJadwal: Menyediakan data hardcode untuk jadwal kuliah.
