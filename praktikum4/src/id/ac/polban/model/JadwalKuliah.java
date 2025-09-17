@@ -16,7 +16,6 @@ public class JadwalKuliah {
   }
 
   public void tambahKegiatan(Kegiatan k) { this.daftarKegiatan.add(k); }
-  // Metode kompatibilitas agar kode lama (jika ada) tetap bisa dipakai.
   public void tambahMataKuliah(MataKuliah mk) { this.daftarKegiatan.add(mk); }
 
   public void tampilkan() {

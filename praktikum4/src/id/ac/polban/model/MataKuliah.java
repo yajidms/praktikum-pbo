@@ -12,9 +12,7 @@ public class MataKuliah extends Kegiatan {
 
   @Override
   public void tampilkanInfo() {
-    // Cetak kolom hari & waktu dari superclass terlebih dahulu
     super.tampilkanInfo();
-    // Lanjutkan dengan kolom spesifik mata kuliah + ruangan (akses via getter superclass)
     System.out.printf("%-45s | %-50s | %-18s |\n", this.namaMk, this.namaDosen, getRuangan());
   }
 

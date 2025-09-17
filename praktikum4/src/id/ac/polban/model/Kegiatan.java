@@ -17,7 +17,6 @@ public class Kegiatan {
     this.ruangan = ruangan;
   }
 
-  // Method ini TIDAK menutup baris tabel dan tidak pakai newline.
   // Subclass WAJIB memanggil super.tampilkanInfo() lebih dulu sebelum melengkapi kolom lain.
   public void tampilkanInfo() {
     System.out.printf("| %-10s | %-15s | ", this.hari, this.waktu);
