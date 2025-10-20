@@ -1,4 +1,4 @@
-# Praktikum 2 Class and Object
+# Praktikum 3
 
 ---
 Nama : Yazid Alrasyid

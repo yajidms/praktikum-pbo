@@ -1,5 +1,5 @@
-# Praktikum 2 Class and Object
-Tugas Praktikum 4 Inheritance
+# Tugas Praktikum 4 Inheritance
+
 ---
 Nama : Yazid Alrasyid
 
