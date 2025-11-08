@@ -1,4 +1,4 @@
-# Tugas Praktikum 11 SonarQube Problem dan Rules Java SonarQUbe
+# Tugas Praktikum 11 SonarQube Problem dan Rules Java SonarQube
 
 ---
 Nama : Yazid Alrasyid
